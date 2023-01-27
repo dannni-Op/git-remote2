@@ -5,6 +5,5 @@
 </head>
 <body>
     <h1>Hello World!</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores quas nostrum, veniam ut voluptas illum amet. Beatae voluptates non voluptatum iusto dolore hic fugit alias sint nihil! A, fugit magnam!</p>
 </body>
 </html>
